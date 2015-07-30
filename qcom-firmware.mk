@@ -21,3 +21,4 @@ $(call inherit-product, vendor/qcom/proprietary/msm8974ab/castor/castor-vendor.m
 $(call inherit-product, vendor/qcom/proprietary/msm8974ab/sirius/sirius-vendor.mk)
 $(call inherit-product, vendor/qcom/proprietary/msm8974ac/aries/aries-vendor.mk)
 $(call inherit-product, vendor/qcom/proprietary/msm8974ac/leo/leo-vendor.mk)
+$(call inherit-product, vendor/qcom/proprietary/msm8974ac/scorpion/scorpion-vendor.mk)
