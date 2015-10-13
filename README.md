@@ -2,11 +2,11 @@
 
 ### Modem Blobs
 ### Shinano
-* leo      - 23.4.A.0.546 (D6603)
-* aries    - 23.4.A.0.546 (D5803)
-* scorpion - 23.4.A.0.546 (SGP621)
-* sirius   - 23.4.A.0.546 (D6503)
-* castor   - 23.4.A.0.546 (SGP521)
+* leo      - 23.4.A.1.232 (D6603)
+* aries    - 23.4.A.1.232 (D5803)
+* scorpion - 23.4.A.1.232 (SGP621)
+* sirius   - 23.4.A.1.232 (D6503)
+* castor   - 23.4.A.1.232 (SGP521)
 
 ### Rhine
 * honami   - 14.5.A.0.270 (C6903)
