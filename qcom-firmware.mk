@@ -12,13 +12,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-$(call inherit-product, vendor/qcom/proprietary/msm8226/flamingo/flamingo-vendor.mk)
-$(call inherit-product, vendor/qcom/proprietary/msm8226/tianchi/tianchi-vendor.mk)
-$(call inherit-product, vendor/qcom/proprietary/msm8974/amami/amami-vendor.mk)
-$(call inherit-product, vendor/qcom/proprietary/msm8974/honami/honami-vendor.mk)
-$(call inherit-product, vendor/qcom/proprietary/msm8974/togari/togari-vendor.mk)
-$(call inherit-product, vendor/qcom/proprietary/msm8974ab/castor/castor-vendor.mk)
-$(call inherit-product, vendor/qcom/proprietary/msm8974ab/sirius/sirius-vendor.mk)
-$(call inherit-product, vendor/qcom/proprietary/msm8974ac/aries/aries-vendor.mk)
-$(call inherit-product, vendor/qcom/proprietary/msm8974ac/leo/leo-vendor.mk)
-$(call inherit-product, vendor/qcom/proprietary/msm8974ac/scorpion/scorpion-vendor.mk)
+$(call inherit-product, vendor/qcom/proprietary/modem-libs.mk)

@@ -15,6 +15,6 @@
 
 ### Yukon
 * tianchi  - 19.1.A.0.473 (D5303)
-* seagull  -
-* eagle    -
+* seagull  - Has modem partition
+* eagle    - Has modem partition
 * flamingo - 18.4.C.2.12 (D2203)
