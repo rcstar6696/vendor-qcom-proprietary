@@ -7,8 +7,8 @@
 * scorpion - 23.4.A.1.264 (SGP621)
 
 ### Shinano (msm8974ab)
-* sirius   - 23.4.A.1.232 (D6503)
-* castor   - 23.4.A.1.232 (SGP521)
+* sirius   - 23.4.A.1.264 (D6503)
+* castor   - 23.4.A.1.264 (SGP521)
 
 ### Rhine (msm8974aa)
 * honami   - 14.6.A.0.368 (C6903)
