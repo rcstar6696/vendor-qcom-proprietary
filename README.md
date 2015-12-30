@@ -11,9 +11,9 @@
 * castor   - 23.4.A.1.264 (SGP521)
 
 ### Rhine (msm8974aa)
-* honami   - 14.6.A.0.368 (C6903)
-* amami    - 14.6.A.0.368 (D5503)
-* togari   - 14.6.A.0.368 (C6803)
+* honami   - 14.6.A.1.236 (C6903)
+* amami    - 14.6.A.1.236 (D5503)
+* togari   - 14.6.A.1.236 (C6833)
 
 ### Yukon (msm8226)
 * tianchi  - 19.1.A.0.473 (D5303)
