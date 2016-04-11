@@ -12,4 +12,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-$(call inherit-product, vendor/qcom/proprietary/firmware/modem-libs.mk)
+$(call inherit-product, vendor/qcom/firmware/modem-libs.mk)

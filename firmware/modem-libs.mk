@@ -13,6 +13,8 @@
 # limitations under the License.
 
 PRODUCT_PACKAGES += \
+    mba_b00 \
+    mba_mdt \
 	modem_b00 \
 	modem_b01 \
 	modem_b02 \
